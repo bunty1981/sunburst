@@ -13,4 +13,4 @@ import plotly.express as px
 fig = px.sunburst(df, path=['Category', 'Level 1','Level 2'], values ='Total', title ='Budget Breakdown')
 fig.show()
 
-fig.write_html("outputs/my-sun-burst.html")
+fig.write_html("docs/my-sun-burst.html")
