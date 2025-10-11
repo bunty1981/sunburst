@@ -1,4 +1,4 @@
-#! ~/.anaconda3/envs/sunburst/bin/python
+# #! ~/.anaconda3/envs/sunburst/bin/python
 
 # This script creates a sunburst chart from a CSV file and saves it as an HTML file.
 # >> conda activate sunburst # to activate the conda environment, run command in terminal
